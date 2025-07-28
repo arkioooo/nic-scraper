@@ -1,0 +1,181 @@
+2025-06-20 10:57:25,486 INFO:NIC code 99999 found for Danfoss Power Solutions India Private Limited. Writing to error file.
+2025-06-20 10:57:26,597 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 10:57:56,313 INFO:Company 'Geekay Wires Ltd.' not found. Written to error file.
+2025-06-20 10:57:57,763 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 10:59:42,154 INFO:Company 'Sainor Laboratories Private Limited' found. Written to backup file.
+2025-06-20 10:59:43,217 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:00:08,956 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:07:04,183 INFO:Company 'Girnar Finserv Private Limited' found. Written to backup file.
+2025-06-20 11:07:05,453 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:08:23,891 INFO:Company 'Hyoseong Electric India Private Limited' not found. Written to error file.
+2025-06-20 11:08:23,968 INFO:NIC code 99999 found for Federation Of Indian Chamber Of Commerce And Industry.. Writing to error file.
+2025-06-20 11:08:25,308 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:09:03,501 INFO:Company 'Vivek Tradelink Private Limited' not found. Written to error file.
+2025-06-20 11:09:04,664 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:09:36,827 INFO:Company 'Hometrail Buildtech Private Limited' not found. Written to error file.
+2025-06-20 11:09:37,931 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:10:04,483 INFO:Company 'Psl Retail Private Limited' not found. Written to error file.
+2025-06-20 11:10:05,533 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:11:17,573 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:12:09,200 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:12:35,085 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:13:00,848 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:13:27,261 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:13:53,058 INFO:Company 'Shree Jewellers Eximp Private Limited' not found. Written to error file.
+2025-06-20 11:13:54,247 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:14:31,494 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:15:15,143 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:15:40,791 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:16:42,303 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:17:33,757 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:18:43,250 INFO:Company 'Ramgad Minerals And Mining Limited' not found. Written to error file.
+2025-06-20 11:18:44,839 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:19:09,696 INFO:Company 'Onward Technologies Ltd.' not found. Written to error file.
+2025-06-20 11:19:10,723 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:19:39,713 INFO:Company 'Rialto Enterprises Private Limited' not found. Written to error file.
+2025-06-20 11:19:40,848 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:20:09,834 INFO:Company 'Frigoglass India Private Limited' not found. Written to error file.
+2025-06-20 11:20:10,918 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:20:46,444 INFO:Company 'Venkata Krishna Enterprises Private Limited' not found. Written to error file.
+2025-06-20 11:20:47,574 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:21:12,697 INFO:Company 'Mirae Asset Capital Markets (India) Private Limited' not found. Written to error file.
+2025-06-20 11:21:13,807 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:21:40,229 INFO:Company 'Jsr Infra Developers Private Limited' not found. Written to error file.
+2025-06-20 11:21:41,364 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:22:06,586 INFO:Company 'Ocwen Financial Solutions Private Limited' not found. Written to error file.
+2025-06-20 11:22:07,572 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:22:32,473 INFO:Company 'Rongsheng Mobile India Private Limited' not found. Written to error file.
+2025-06-20 11:22:33,505 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:29:08,048 INFO:Company 'Rajat Agro Commodities Private Limited' found. Written to backup file.
+2025-06-20 11:29:09,395 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:31:13,795 INFO:Company 'Meil Neeleshwaram Roadways Private Limited' not found. Written to error file.
+2025-06-20 11:31:14,915 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:33:14,776 INFO:Company 'Ayyappa Infra Projects Private Limited (Under Part Ix)' not found. Written to error file.
+2025-06-20 11:33:15,837 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:34:58,322 INFO:Company 'Mizuho Ra Leasing Private Limited' not found. Written to error file.
+2025-06-20 11:34:59,572 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:35:41,801 INFO:Company 'Rathi Bars Ltd.' not found. Written to error file.
+2025-06-20 11:35:42,867 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:37:25,993 INFO:Company 'Hi- Tech Inks Private Limited' not found. Written to error file.
+2025-06-20 11:37:27,011 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:38:05,577 INFO:Company 'Sree Saradhambal Automobiles Private Limited' not found. Written to error file.
+2025-06-20 11:38:06,756 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:38:33,634 INFO:Company 'A P Organics Limited' not found. Written to error file.
+2025-06-20 11:38:35,613 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:39:01,709 INFO:Company 'Mckinsey Global Services India Private Limited' not found. Written to error file.
+2025-06-20 11:39:03,048 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:39:28,192 INFO:Company 'Bobst India Private Limited' not found. Written to error file.
+2025-06-20 11:39:28,264 INFO:NIC code 99999 found for Maina International Limited. Writing to error file.
+2025-06-20 11:39:29,368 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:40:08,000 INFO:Company 'Ketan Motors Private Limited' not found. Written to error file.
+2025-06-20 11:40:09,335 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:40:33,957 INFO:Company 'Jalan Jewels Private Limited' not found. Written to error file.
+2025-06-20 11:40:35,004 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:41:11,274 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:41:44,353 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:42:36,026 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:43:04,129 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:43:20,731 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:43:50,902 INFO:Company 'Kanjiravelil Traders Private Limited' not found. Written to error file.
+2025-06-20 11:43:52,088 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:44:16,360 INFO:Company 'Harsha Constructions Private Limited' not found. Written to error file.
+2025-06-20 11:44:16,432 INFO:Error occurred for company 'Haridaspur Paradip Railway Company Limited'. Written to error file.
+2025-06-20 11:44:17,573 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:44:52,830 INFO:Company 'Kotak Commodity Services Private Limited' not found. Written to error file.
+2025-06-20 11:44:54,035 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:45:21,899 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:45:57,550 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:46:38,369 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:47:06,903 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:47:32,557 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:47:58,500 INFO:Company 'Sukaso Ceracolors Private Limited' not found. Written to error file.
+2025-06-20 11:47:58,587 INFO:NIC code 99999 found for Vardhamanglobal Sharecom Private Limited. Writing to error file.
+2025-06-20 11:47:59,653 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:48:40,563 INFO:Company 'Mountain Valley Springs India Private Limited' not found. Written to error file.
+2025-06-20 11:48:41,573 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:49:14,491 INFO:Company 'The Rajlakshmi Cotton Mills Private Limited' not found. Written to error file.
+2025-06-20 11:49:15,687 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:49:40,643 INFO:Company 'Vensa Infrastructure Limited' not found. Written to error file.
+2025-06-20 11:49:41,918 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:50:06,404 INFO:Company 'Sanwaria Sweets Private Limited' not found. Written to error file.
+2025-06-20 11:50:08,410 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:51:31,306 INFO:Company 'Shadi Ram & Sons Private Limited' not found. Written to error file.
+2025-06-20 11:51:32,529 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:52:04,281 INFO:Company 'Stulz - Chspl (India) Private Limited' not found. Written to error file.
+2025-06-20 11:52:05,393 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:52:29,638 INFO:Company 'Fiserv Merchant Solutions Private Limited' not found. Written to error file.
+2025-06-20 11:52:30,846 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:52:57,206 INFO:Company 'Sterling Green Power Solutions Private Limited' not found. Written to error file.
+2025-06-20 11:52:58,465 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:53:22,851 INFO:Company 'Dadi Ji Steels Private Limited' not found. Written to error file.
+2025-06-20 11:53:24,028 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:54:19,805 INFO:Company 'Keltech Energies Ltd.' found. Written to backup file.
+2025-06-20 11:54:20,971 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:54:54,655 INFO:Company 'Trident Infrahomes Private Limited' not found. Written to error file.
+2025-06-20 11:54:55,836 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:55:31,472 INFO:Company 'Sundaram Chains Private Limited' not found. Written to error file.
+2025-06-20 11:55:32,623 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:55:56,981 INFO:Company 'Fnf India Private Limited' not found. Written to error file.
+2025-06-20 11:55:58,014 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:56:33,658 INFO:Company 'Adroit Share And Stock Broker Private Limited' not found. Written to error file.
+2025-06-20 11:56:34,710 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:56:59,420 INFO:Company 'Rameswar Udyog Private Limited' not found. Written to error file.
+2025-06-20 11:57:00,632 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:57:41,685 INFO:Company 'Roots Industries India Private Limited' not found. Written to error file.
+2025-06-20 11:57:43,010 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:58:09,035 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 11:59:35,279 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:00:07,701 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:00:40,988 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:01:10,185 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:02:42,794 INFO:Company 'Kamladityya Construction Private Limited' not found. Written to error file.
+2025-06-20 12:02:44,229 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:03:10,219 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:03:36,016 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:04:08,031 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:04:35,294 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:05:08,116 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:05:32,449 INFO:Company 'JNK India Ltd.' not found. Written to error file.
+2025-06-20 12:05:33,911 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:06:07,662 INFO:Company 'Model Infra Corporation Private Limited' not found. Written to error file.
+2025-06-20 12:06:09,517 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:09:24,614 INFO:Company 'Simhapuri Expressway Limited' not found. Written to error file.
+2025-06-20 12:09:25,635 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:09:51,642 INFO:Company 'Swan Solutions And Services Private Limited' not found. Written to error file.
+2025-06-20 12:09:53,416 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:10:17,869 INFO:Company 'Dev It Serv Private Limited' not found. Written to error file.
+2025-06-20 12:10:19,269 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:10:46,841 INFO:Company 'M K U Limited' not found. Written to error file.
+2025-06-20 12:10:46,939 INFO:Error occurred for company 'Karma Re-Rollers Private Limited'. Written to error file.
+2025-06-20 12:10:48,400 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:11:12,820 INFO:Company 'Ska Steel And Power Private Limited' not found. Written to error file.
+2025-06-20 12:11:14,461 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:15:00,674 INFO:Company 'Prakash Chemicals Private Limited' not found. Written to error file.
+2025-06-20 12:15:01,655 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:15:26,524 INFO:Company 'Param Enterprises Pvt Ltd' not found. Written to error file.
+2025-06-20 12:15:27,933 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:15:52,994 INFO:Company 'Growel Processors Private Limited' not found. Written to error file.
+2025-06-20 12:15:54,619 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:16:43,800 INFO:Company 'Agrasen Iron And Steels Private Limited' not found. Written to error file.
+2025-06-20 12:16:45,811 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:17:11,262 INFO:Company 'Straddle Capital Private Limited' not found. Written to error file.
+2025-06-20 12:17:12,666 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:17:37,086 INFO:Company 'Topband India Private Limited' not found. Written to error file.
+2025-06-20 12:17:38,565 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:18:46,563 INFO:Company 'Dana Tm4 India Private Limited' not found. Written to error file.
+2025-06-20 12:18:48,147 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:19:13,613 INFO:Company 'Shivnarayan Jewellers Private Limited' not found. Written to error file.
+2025-06-20 12:19:15,021 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:20:05,700 INFO:Company 'Raja Udyog Private Limited' not found. Written to error file.
+2025-06-20 12:20:06,669 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:20:31,543 INFO:Company 'Ken Enterprises Ltd.' not found. Written to error file.
+2025-06-20 12:20:31,611 INFO:Error occurred for company 'B R Sponge And Power Limited'. Written to error file.
+2025-06-20 12:20:32,579 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:21:08,764 INFO:Company 'Mcafee Software (India) Private Limited' not found. Written to error file.
+2025-06-20 12:21:10,479 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:21:44,712 INFO:Company 'Asl Enterprises Limited' not found. Written to error file.
+2025-06-20 12:21:45,676 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:22:10,084 INFO:Company 'Koshambh Multitred Pvt Ltd' not found. Written to error file.
+2025-06-20 12:22:11,117 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-20 12:22:35,566 INFO:Company 'Bapuna Alcobrew Private Limited' not found. Written to error file.
+2025-06-20 12:22:37,313 INFO:patching driver executable C:\Users\mridul.intern\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
